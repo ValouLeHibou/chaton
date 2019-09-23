@@ -39,7 +39,7 @@ h1 {
     background-color: white;
 }
 
-.menul>p{
+.menul>p {
     margin: 0;
 }
 
@@ -60,5 +60,18 @@ footer {
     font-size: 3em;
     background-color: plum;
     height: 100px;
+}
+
+.news {
+    width: 20%;
+}
+
+.maxmenu {
+    text-align: center;
+    float: left;
+    margin-left: 100px;
+    padding: 10px;
+    width: 70%;
+    background-color: white;
 }
 
