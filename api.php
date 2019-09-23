@@ -27,8 +27,8 @@ curl_close($curl);
     <link rel="stylesheet" type="text/css" href="index.css">
 </head>
 <body>
-<IMG class="c1" SRC="coeur.gif">
-<IMG class="c2" SRC="coeur.gif">
+<IMG class="c1" SRC="gif/coeur.gif">
+<IMG class="c2" SRC="gif/coeur.gif">
 <h1>Bienvenue</h1>
 <div class="menul">
     <p><a href="#">Abyssin</a></p>
