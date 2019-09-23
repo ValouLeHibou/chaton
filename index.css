@@ -1,0 +1,64 @@
+html {
+    background-image: url("fleur.jpg");
+    background-repeat: repeat;
+    caret-color: red;
+    cursor: url('purple.cur'), default;
+}
+
+h1 {
+    color: white;
+    font-size: 7em;
+    text-align: center;
+    background-color: pink;
+}
+
+.c1, .c2 {
+    width: 10%;
+}
+
+.c2 {
+    float: right;
+}
+
+.menul {
+    float: left;
+    margin-left: 100px;
+    height: 700px;
+    padding: 10px;
+    width: 15%;
+    background-color: white;
+}
+
+.menur {
+    float: right;
+    margin-right: 100px;
+    text-align: center;
+    height: 700px;
+    padding: 10px;
+    width: 70%;
+    background-color: white;
+}
+
+.menul>p{
+    margin: 0;
+}
+
+.menul>p>a {
+    background-color: plum;
+    color: red;
+}
+
+.pub {
+    border: solid #000;
+    border-width: 0 3px;
+}
+
+footer {
+    text-align: center;
+    margin-top: 800px;
+    color: white;
+    font-size: 3em;
+    background-color: plum;
+    height: 100px;
+}
+
