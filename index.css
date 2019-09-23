@@ -3,6 +3,7 @@ html {
     background-repeat: repeat;
     caret-color: red;
     cursor: url('purple.cur'), default;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
 }
 
 h1 {

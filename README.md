@@ -1,6 +1,7 @@
 # Chaton
 
 Autant être honnête, j'ai un peu triché sur l'alignement avec l'outil `float`.
+Si non, j'ai utilisé `margin-right` ou `margin-left`
 
 - Pour le reste, j'ai modifié le curseur, ajouté des paillettes etc
 - j'ai essayé quelques vielles balises comme `<pre>` ou `<dl>`, `<dt>`, `<dd>`
